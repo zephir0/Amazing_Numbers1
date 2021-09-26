@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Amazing Numbers/task/build/
+/Amazing Numbers/task/out/
+/Amazing Numbers/task/out/production/classes/
+/Topics/Processing strings/Compression algorithm/out/
+/Topics/Processing strings/Compression algorithm/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Processing strings/The percentage of G and C characters/out/
+/Topics/Processing strings/The percentage of G and C characters/out/production/classes/
+/Topics/StringBuilder/Concat all strings without digits/out/
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/
+/Topics/StringBuilder/The English alphabet/out/
+/Topics/StringBuilder/The English alphabet/out/production/classes/
